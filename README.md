@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @criswiz
 - 👀 I’m interested in programming and software engineering 
-- 🌱 I’m currently learning python, flutter and JS and it's frameworks
+- 🌱 I’m a beginner to intermediate python, flutter and JS and it's frameworks
 - 💞️ I’m looking to collaborate on any project that would acquire my skills
 - 📫 How to reach me criswiz52@gmail.com, twitter: criswiz77, linkedIn: criswiz52@gmail.com
 
