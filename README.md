@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Agbenorwu</h1>
 <h3 align="center">A passionate full-stack web and mobile developer from Ghana</h3>
 
-- 🔭 I’m currently working on [Goals setter app](https://github.com/criswiz/GoalsWebApp)
-
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **Angular and Python**
 
 - 💬 Ask me about **Python, JS**
 
